@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(51, 49, 49);
+}
+
+h1{
+    color: white;
+    font-size: 50px;
+}
+
+button {
+    font-size: 25px;
+    font-size: bold;
+    color: black;
+}
+
+img{
+    height: 600px;
+    width: 600px
+    margin-right: 100px;
+}
