@@ -15,6 +15,22 @@ button {
 
 img{
     height: 600px;
-    width: 600px
-    margin-right: 100px;
+    width: 2300px;
+    margin-left: 40px;
+}
+
+.odin{
+    height: 100px;
+    width: 50px;
+}
+
+p{
+    color: rgb(255, 255, 255);
+    margin-left: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#container{
+    display: flex;
 }
