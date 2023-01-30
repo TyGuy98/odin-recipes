@@ -8,6 +8,13 @@ h1{
     margin-left: 40px;
 }
 
+h2{
+    font-weight: bold;
+    font-size: 40px;
+    color: white;
+}
+
+
 button {
     background-color: #4CAF50; /* Green */
     border-radius: 8px;
@@ -16,15 +23,19 @@ button {
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
- 
-    
+    font-size: 16px; 
 }
 
 
-.odin{
+.logo{
     height: 100px;
     width: 50px;
+}
+
+.shrimp-logo{
+    width: 100px;
+  
+
 }
 
 .container{
@@ -32,6 +43,13 @@ button {
     align-items: center;
     justify-content: center
 }
+
+
+.chicken-text, .buttered-text,  p, ul, ol{
+    font-size: 20px;
+     color: white;
+ }
+
 
 .image1{
     height: 600px;
@@ -47,6 +65,21 @@ button {
     margin-top: 100px;
 }
 
+.noodle1, .noodle2{
+    height: 500px;
+    width: 500px
+}
+
+.noodle1, .chicken, .shrimp{
+    margin-left: 20px;
+}
+
+.noodle2{
+    margin-left: 300px;
+    margin-top: 50px;
+}
+
+
 
 
 .text{
@@ -54,6 +87,5 @@ button {
     font-size: 20px;
     font-weight: bold;
     margin-left: 20px;
-    margin-bottom: 500px;
-    
+    margin-bottom: 500px; 
 }
